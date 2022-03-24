@@ -1,6 +1,6 @@
 # tpfinal_diplo_bi
 
-Trabajo final de la Diplomatura en Bussiness Analytics de la Universidad del Aconcagua, en cual consistía en tres partes.
+Trabajo final de la Diplomatura en Business Analytics de la Universidad del Aconcagua, en cual consistía en tres partes.
 
 ## Parte 1
 Explicación de que se pretende analizar, identificar y mostrar al usuario de negocio sobre los clientes.
